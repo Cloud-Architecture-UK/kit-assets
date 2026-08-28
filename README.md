@@ -11,3 +11,5 @@ is why this repo is public and kept separate from the (private) baseline kit.
 ## Wallpapers
 - `wallpapers/ca-prism-3840x2160.png` — desktop + lock screen (CFG16 Personalization policy).
   `https://raw.githubusercontent.com/Cloud-Architecture-UK/kit-assets/main/wallpapers/ca-prism-3840x2160.png`
+- `wallpapers/paw-c-chevron-3840x2160.png` — PAW desktop + lock screen, to visually distinguish a Privileged Access Workstation from a standard device.
+  `https://raw.githubusercontent.com/Cloud-Architecture-UK/kit-assets/main/wallpapers/paw-c-chevron-3840x2160.png`
