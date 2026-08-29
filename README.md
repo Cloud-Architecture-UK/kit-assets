@@ -1,6 +1,6 @@
 # kit-assets
 
-Public asset store for the **kit-m365-tenant-baseline** Windows / Microsoft 365 security baseline.
+Public asset store for the **kit-m365-secure** Windows / Microsoft 365 security baseline.
 
 Holds device-fetchable static files (wallpapers, lock-screen images, branding icons) that Intune
 policies reference by **raw GitHub URL**. Those URLs must be reachable **without authentication**, which
